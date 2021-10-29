@@ -1,0 +1,8 @@
+ * Go to [hexed.it](https://hexed.it/)
+> * Click "Open File" and choose your sublime_text.exe **(DON'T FORGET TO BACKUP YOUR EXE FILE)**
+> * Go to Search and in "Search for" put: C3 C6 01 00 C3
+> * In Search Type select "Enable replace" and put: C3 C6 01 01 C3
+> * Click "Find next" then "Replace"
+> * Do the same thing with: 51 31 C0 88 05 => 51 b0 01 88 05
+> * Click "Save as" then name it: sublime_text
+> * Copy your modified sublime_text.exe to directory Sublime Text
